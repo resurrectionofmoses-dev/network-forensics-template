@@ -1,0 +1,16 @@
+# Ignore large capture files
+*.pcap
+*.pcapng
+*.pcap.gz
+*.pcapng.gz
+*.pcap.tar.gz
+*.pcapng.tar.gz
+*.pcap.*
+
+# Python / notebook
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# OS
+.DS_Store
